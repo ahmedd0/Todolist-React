@@ -1,0 +1,14 @@
+.home {
+    min-height: 100vh;
+    background-color: #08c;
+}
+
+
+
+
+@media (max-with:800px) {
+    .todo {
+        width: 95% !important;
+    }
+
+}
