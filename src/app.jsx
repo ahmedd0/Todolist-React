@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Navbar from "./components/navbar";
 import { Route, Switch, Redirect } from "react-router-dom";
 
+import Navbar from "./components/navbar";
 import Home from "./pages/Home/home";
 import Blog from "./pages/Blog/Blog";
 import err404 from "./components/Error404/err404";

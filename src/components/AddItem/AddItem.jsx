@@ -4,7 +4,7 @@ import "./addItem.css";
 class AddItem extends Component {
   state = {};
   render() {
-    let { handleChange, val,  } = this.props;
+    let { handleChange, val } = this.props;
     return (
       <div className="form px-4">
         <div className="form-group">
